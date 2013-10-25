@@ -8,6 +8,16 @@ Anpassungen in der Datei `custom.ahk`, die von Hand nach `%AppData%\Neo2\` kopie
 Diese Datei ist noch in Arbeit und soll meine Layout-Anpassung umsetzen, die ich für [Linux/XKB](https://github.com/effjot/xkb-neo/blob/neo-layout/DESIGN.md) entwickle.
 
 
+TODO
+----
+
+Das fehlt noch im Unterschied zu meiner XKB-Version:
+
+ * Akzenttasten
+ * Plus-Taste
+ * evlt. Mod3 auf schwarzen Tasten, Mod4 auf Außentasten über Shift
+
+
 Belegung
 --------
 
